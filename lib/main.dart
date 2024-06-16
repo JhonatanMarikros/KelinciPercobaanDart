@@ -2,6 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 import 'package:provider/provider.dart';
+import 'package:softdevuas/NavbarPage/account.dart';
 import 'package:softdevuas/NavbarPage/cart.dart';
 import 'package:softdevuas/NavbarPage/home.dart';
 import 'package:softdevuas/NavbarPage/likes.dart';
